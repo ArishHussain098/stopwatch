@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+background: black;
+
+}
+
+#container{
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    padding: 20px;
+font-size: 2rem;
+color: white;
+background:  #7b8fa338;
+margin-top: 10%;
+}
+#time{
+    font-size: 5rem;
+    border: 1px solid white;
+}
+#start{
+    width: 70px;
+    height: 30px;
+    background: rgb(32, 253, 3);
+    font-size: 20px;
+}
+#pause{
+    width: 70px;
+    height: 30px;
+    background: rgb(252, 2, 2);
+    font-size: 20px;
+}
+#reset{
+    width: 70px;
+    height: 30px;
+    background: rgb(245, 229, 1);
+    font-size: 20px;
+}
